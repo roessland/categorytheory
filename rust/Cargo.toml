@@ -1,0 +1,6 @@
+[package]
+name = "category_theory"
+version = "0.1.0"
+authors = ["Andreas Røssland <andreas.roessland@gmail.com>"]
+
+[dependencies]
